@@ -1,0 +1,24 @@
+.navbar{
+    height: 120px;
+    border: 1px solid ;
+
+}
+.nav-link {
+    color: brown;
+}
+
+
+
+.modaltit{
+    text-align: center;
+}
+
+.modalvid{
+    text-align: center;
+    
+}
+
+.containerFooter {
+    border: 1px solid black;
+    height: 100px;
+}
